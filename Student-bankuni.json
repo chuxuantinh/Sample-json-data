@@ -1,0 +1,1527 @@
+[{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7d4"
+  },
+  "StudentId": "7701100258",
+  "StudentName": "Văn Thị Thanh Vân",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "01268546677",
+  "CollegeName": "Trường Đại học Kinh Tế TPHCM",
+  "BirthDay": "13/12/1987",
+  "BirthPlace": "Gia Lai",
+  "Gender": false,
+  "ClassStudentName": "NGÂN HÀNG ĐÊM 4",
+  "OlogyName": "Ngân hàng",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_NH",
+  "AverageScore": 6.98
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7d5"
+  },
+  "StudentId": "7701100313",
+  "StudentName": "Lê Nguyễn Quỳnh Hương",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0905134625",
+  "CollegeName": "Trường Đại học Kinh Tế TPHCM",
+  "BirthDay": "11/11/1987",
+  "BirthPlace": "TP.HCM",
+  "Gender": false,
+  "ClassStudentName": "NGÂN HÀNG ĐÊM 2",
+  "OlogyName": "Ngân hàng",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_NH",
+  "AverageScore": 8
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7d6"
+  },
+  "StudentId": "7701100315",
+  "StudentName": "Đặng Thị Thùy Phương",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0976221228",
+  "CollegeName": "Trường Đại học Kinh Tế TPHCM",
+  "BirthDay": "26/11/1987",
+  "BirthPlace": "Gia Lai",
+  "Gender": false,
+  "ClassStudentName": "NGÂN HÀNG ĐÊM 3",
+  "OlogyName": "Ngân hàng",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_NH",
+  "AverageScore": 9
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7d7"
+  },
+  "StudentId": "7701100432",
+  "StudentName": "Nguyễn Thị Mỹ Hằng",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0913184834",
+  "CollegeName": "Trường Đại học Kinh Tế TPHCM",
+  "BirthDay": "27/09/1983",
+  "BirthPlace": "Đồng Nai",
+  "Gender": false,
+  "ClassStudentName": "QTKD ĐÊM 5",
+  "OlogyName": "Quản trị kinh doanh",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_QT",
+  "AverageScore": 6.8
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7d8"
+  },
+  "StudentId": "7701100487",
+  "StudentName": "Lê Thị Thanh Thảo",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0908042232",
+  "CollegeName": "Trường Đại học Kinh Tế TPHCM",
+  "BirthDay": "19/08/1985",
+  "BirthPlace": "Quảng Bình",
+  "Gender": false,
+  "ClassStudentName": "QTKD ĐÊM 4",
+  "OlogyName": "Quản trị kinh doanh",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_QT",
+  "AverageScore": 7.6
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7d9"
+  },
+  "StudentId": "7701100520",
+  "StudentName": "Đoàn Kim Hoàng Yến",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0985422095",
+  "CollegeName": "Trường Đại học Kinh Tế TPHCM",
+  "BirthDay": "16/11/1984",
+  "BirthPlace": "Lâm Đồng",
+  "Gender": false,
+  "ClassStudentName": "QTKD NGÀY 1",
+  "OlogyName": "Quản trị kinh doanh",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_QT",
+  "AverageScore": 6.2
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7da"
+  },
+  "StudentId": "7701100558",
+  "StudentName": "Nguyễn Duy Khánh",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "",
+  "CollegeName": "Trường Đại học Kinh Tế TPHCM",
+  "BirthDay": "29/06/1982",
+  "BirthPlace": "Đồng Nai",
+  "Gender": true,
+  "ClassStudentName": "TCDN NGÀY 2",
+  "OlogyName": "Tài chính",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_TCDN",
+  "AverageScore": 10
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7db"
+  },
+  "StudentId": "7701100741",
+  "StudentName": "Tống Nguyên Dũng",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0985934635",
+  "CollegeName": "Trường Đại học Kinh Tế TPHCM",
+  "BirthDay": "08/10/1987",
+  "BirthPlace": "Đồng Nai",
+  "Gender": true,
+  "ClassStudentName": "NGÂN HÀNG NGÀY 1",
+  "OlogyName": "Ngân hàng",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_NH",
+  "AverageScore": 9
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7dc"
+  },
+  "StudentId": "7701100780",
+  "StudentName": "Nguyễn Thị Châu Loan",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0989073927",
+  "CollegeName": "Trường Đại học Kinh Tế TPHCM",
+  "BirthDay": "05/04/1984",
+  "BirthPlace": "Hà Nam",
+  "Gender": false,
+  "ClassStudentName": "NGÂN HÀNG ĐÊM 4",
+  "OlogyName": "Ngân hàng",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_NH"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7dd"
+  },
+  "StudentId": "7701100792",
+  "StudentName": "Nguyễn Thị Ánh Ngọc",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0938552339",
+  "CollegeName": "Trường Đại học Kinh Tế TPHCM",
+  "BirthDay": "20/12/1983",
+  "BirthPlace": "An Giang",
+  "Gender": false,
+  "ClassStudentName": "NGÂN HÀNG ĐÊM 1",
+  "OlogyName": "Ngân hàng",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_NH"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7de"
+  },
+  "StudentId": "7701100814",
+  "StudentName": "Nguyễn Thị Minh Phương",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0983332605",
+  "CollegeName": "Trường Đại học Kinh Tế TPHCM",
+  "BirthDay": "26/05/1984",
+  "BirthPlace": "Bắc Ninh",
+  "Gender": false,
+  "ClassStudentName": "NGÂN HÀNG ĐÊM 1",
+  "OlogyName": "Ngân hàng",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_NH"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7df"
+  },
+  "StudentId": "7701101086",
+  "StudentName": "Nguyễn Thị Tuyết Nhung",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0907950307",
+  "CollegeName": "Trường Đại học Kinh Tế TPHCM",
+  "BirthDay": "03/07/1987",
+  "BirthPlace": "Đồng Nai",
+  "Gender": false,
+  "ClassStudentName": "QTKD NGÀY 2",
+  "OlogyName": "Quản trị kinh doanh",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_QT"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7e0"
+  },
+  "StudentId": "7701101386",
+  "StudentName": "Phan Tiến Quân",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0917405561",
+  "CollegeName": "Trường Đại học Kinh Tế TPHCM",
+  "BirthDay": "29/08/1985",
+  "BirthPlace": "Đồng Nai",
+  "Gender": true,
+  "ClassStudentName": "KTKT NGÀY 2",
+  "OlogyName": "Kế toán",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_KT"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7e1"
+  },
+  "StudentId": "7701101400",
+  "StudentName": "Nguyễn Thị Thanh Thủy",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "01679617647",
+  "CollegeName": "Trường Đại học Kinh Tế TPHCM",
+  "BirthDay": "28/10/1984",
+  "BirthPlace": "Đắk Lắk",
+  "Gender": false,
+  "ClassStudentName": "TCDN ĐÊM 4",
+  "OlogyName": "Tài chính",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_TCDN"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7e2"
+  },
+  "StudentId": "7701101471",
+  "StudentName": "Phạm Tấn Độ",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "01265060613",
+  "CollegeName": "Trường Đại học Kinh Tế TPHCM",
+  "BirthDay": "05/03/1986",
+  "BirthPlace": "Quảng Ngãi",
+  "Gender": true,
+  "ClassStudentName": "KTPT ĐÊM",
+  "OlogyName": "Kinh tế phát triển",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_QT2"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7e3"
+  },
+  "StudentId": "7701101489",
+  "StudentName": "Tạ Thị Lan Hương",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0986512536",
+  "CollegeName": "Trường Đại học Kinh Tế TPHCM",
+  "BirthDay": "28/02/1987",
+  "BirthPlace": "Tây Ninh",
+  "Gender": false,
+  "ClassStudentName": "THƯƠNG MẠI ĐÊM",
+  "OlogyName": "Kinh doanh thương mại",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_TM"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7e4"
+  },
+  "StudentId": "7701101525",
+  "StudentName": "Hoàng Ngọc Thanh",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0979588509",
+  "CollegeName": "Trường Đại học Kinh Tế TPHCM",
+  "BirthDay": "15/10/1982",
+  "BirthPlace": "Bà Rịa - Vũng Tàu",
+  "Gender": false,
+  "ClassStudentName": "THƯƠNG MẠI NGÀY",
+  "OlogyName": "Kinh doanh thương mại",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_TM"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7e5"
+  },
+  "StudentId": "7701101669",
+  "StudentName": "Nguyễn Thị Mai Trâm",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "01689990104",
+  "CollegeName": "Trường Đại học Kinh Tế TPHCM",
+  "BirthDay": "09/02/1981",
+  "BirthPlace": "Tây Ninh",
+  "Gender": false,
+  "ClassStudentName": "NGÂN HÀNG NGÀY 2",
+  "OlogyName": "Ngân hàng",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_NH"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7e6"
+  },
+  "StudentId": "7701101875",
+  "StudentName": "Võ Vĩnh Huy",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0905302389",
+  "CollegeName": "Trường Đại học Kinh Tế TPHCM",
+  "BirthDay": "11/01/1987",
+  "BirthPlace": "Quảng Ngãi",
+  "Gender": true,
+  "ClassStudentName": "QTKD NGÀY 1",
+  "OlogyName": "Quản trị kinh doanh",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_QT"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7e7"
+  },
+  "StudentId": "7701102283",
+  "StudentName": "Nguyễn Trần Dương",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "",
+  "CollegeName": "Trường Đại học Kinh Tế TPHCM",
+  "BirthDay": "07/12/1987",
+  "BirthPlace": "TP.HCM",
+  "Gender": true,
+  "ClassStudentName": "QTKD NGÀY 2",
+  "OlogyName": "Quản trị kinh doanh",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_QT"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7e8"
+  },
+  "StudentId": "7701102320",
+  "StudentName": "Lương Minh Hưng",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0906615005",
+  "CollegeName": "Trường Đại học Kinh Tế TPHCM",
+  "BirthDay": "14/03/1984",
+  "BirthPlace": "Đồng Nai",
+  "Gender": true,
+  "ClassStudentName": "NGÂN HÀNG NGÀY 2",
+  "OlogyName": "Ngân hàng",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_NH"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7e9"
+  },
+  "StudentId": "7701102424",
+  "StudentName": "Trịnh Quang Vỹ",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0902633361",
+  "CollegeName": "Trường Đại học Kinh Tế TPHCM",
+  "BirthDay": "03/11/1986",
+  "BirthPlace": "TP.HCM",
+  "Gender": true,
+  "ClassStudentName": "QTKD NGÀY 2",
+  "OlogyName": "Quản trị kinh doanh",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_QT"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7ea"
+  },
+  "StudentId": "7701210001",
+  "StudentName": "Lưu Anh A",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0918449424",
+  "BirthDay": "10/10/1974",
+  "BirthPlace": "Phú Yên",
+  "Gender": true,
+  "ClassStudentName": "QTKD NGÀY 1",
+  "OlogyName": "Quản trị kinh doanh",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_QT"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7eb"
+  },
+  "StudentId": "7701210002",
+  "StudentName": "Lê Phan Vĩ Ái",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0933094247",
+  "BirthDay": "13/12/1988",
+  "BirthPlace": "Bình Định",
+  "Gender": false,
+  "ClassStudentName": "NGÂN HÀNG ĐÊM 1",
+  "OlogyName": "Ngân hàng",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_NH"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7ec"
+  },
+  "StudentId": "7701210003",
+  "StudentName": "Cao Thị Bình  An",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0932345600",
+  "BirthDay": "12/10/1987",
+  "BirthPlace": "Bà Rịa - Vũng Tàu ",
+  "Gender": false,
+  "ClassStudentName": "QTKD ĐÊM 1",
+  "OlogyName": "Quản trị kinh doanh",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_QT"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7ed"
+  },
+  "StudentId": "7701210004",
+  "StudentName": "Nguyễn Thị Thúy An",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "",
+  "BirthDay": "18/12/1988",
+  "BirthPlace": "Thanh Hóa",
+  "Gender": false,
+  "ClassStudentName": "TCDN NGÀY 2",
+  "OlogyName": "Tài chính",
+  "CourseID": "CHK21"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7ee"
+  },
+  "StudentId": "7701210005",
+  "StudentName": "Phạm Thị Thúy An",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0977804388",
+  "BirthDay": "05/06/1988",
+  "BirthPlace": "Đồng Nai",
+  "Gender": false,
+  "ClassStudentName": "NGÂN HÀNG NGÀY 2",
+  "OlogyName": "Ngân hàng",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_NH"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7ef"
+  },
+  "StudentId": "7701210006",
+  "StudentName": "Phan Thuận  An",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0905286011",
+  "BirthDay": "12/05/1987",
+  "BirthPlace": "TP.HCM ",
+  "Gender": true,
+  "ClassStudentName": "QTKD ĐÊM 1",
+  "OlogyName": "Quản trị kinh doanh",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_QT"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7f0"
+  },
+  "StudentId": "7701210007",
+  "StudentName": "Nguyễn Hữu An",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "",
+  "BirthDay": "05/10/1987",
+  "BirthPlace": "Bà Rịa - Vũng Tàu  ",
+  "Gender": true,
+  "ClassStudentName": "NGÂN HÀNG ĐÊM 1",
+  "OlogyName": "Ngân hàng",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_NH"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7f1"
+  },
+  "StudentId": "7701210008",
+  "StudentName": "Huỳnh Thị Trường An",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0935215315",
+  "BirthDay": "03/08/1988",
+  "BirthPlace": "Đắk Lắk",
+  "Gender": false,
+  "ClassStudentName": "NGÂN HÀNG ĐÊM 1",
+  "OlogyName": "Ngân hàng",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_NH"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7f2"
+  },
+  "StudentId": "7701210009",
+  "StudentName": "Nguyễn Thị Thúy  An",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0977359248",
+  "BirthDay": "01/11/1986",
+  "BirthPlace": "Đồng Nai ",
+  "Gender": false,
+  "ClassStudentName": "NGÂN HÀNG ĐÊM 1",
+  "OlogyName": "Ngân hàng",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_NH"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7f3"
+  },
+  "StudentId": "7701210010",
+  "StudentName": "Phan Vũ Tú  An",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0933359009",
+  "BirthDay": "12/10/1989",
+  "BirthPlace": "Quảng Nam  ",
+  "Gender": true,
+  "ClassStudentName": "TCDN ĐÊM 3",
+  "OlogyName": "Tài chính",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_TCDN"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7f4"
+  },
+  "StudentId": "7701210011",
+  "StudentName": "Phạm Đình  Ân",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0909637080",
+  "BirthDay": "07/05/1980",
+  "BirthPlace": "TP.HCM ",
+  "Gender": true,
+  "ClassStudentName": "QTKD ĐÊM 1",
+  "OlogyName": "Quản trị kinh doanh",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_QT"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7f5"
+  },
+  "StudentId": "7701210012",
+  "StudentName": "Phan Thị Thiên  Ân",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0933149295",
+  "BirthDay": "10/01/1988",
+  "BirthPlace": "Quảng Nam  ",
+  "Gender": false,
+  "ClassStudentName": "NGÂN HÀNG ĐÊM 2",
+  "OlogyName": "Ngân hàng",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_NH"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7f6"
+  },
+  "StudentId": "7701210013",
+  "StudentName": "Tạ Hoàng  Anh",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0909250684",
+  "BirthDay": "25/06/1984",
+  "BirthPlace": "Bình Dương  ",
+  "Gender": true,
+  "ClassStudentName": "KTPT NGÀY",
+  "OlogyName": "Kinh tế phát triển",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_QT2"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7f7"
+  },
+  "StudentId": "7701210014",
+  "StudentName": "Phan Thị Hồng Anh",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0905053008",
+  "BirthDay": "21/03/1988",
+  "BirthPlace": "Khánh Hòa",
+  "Gender": false,
+  "ClassStudentName": "NGÂN HÀNG NGÀY 2",
+  "OlogyName": "Ngân hàng",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_NH"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7f8"
+  },
+  "StudentId": "7701210015",
+  "StudentName": "Ngô Thị Vân Anh",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "",
+  "BirthDay": "26/02/1986",
+  "BirthPlace": "Bà Rịa - Vũng Tàu  ",
+  "Gender": false,
+  "ClassStudentName": "QTKD ĐÊM 1",
+  "OlogyName": "Quản trị kinh doanh",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_QT"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7f9"
+  },
+  "StudentId": "7701210016",
+  "StudentName": "Trần Thị Huỳnh  Anh",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0902440420",
+  "BirthDay": "20/07/1987",
+  "BirthPlace": "Tây Ninh  ",
+  "Gender": false,
+  "ClassStudentName": "QTKD NGÀY 2",
+  "OlogyName": "Quản trị kinh doanh",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_QT"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7fa"
+  },
+  "StudentId": "7701210017",
+  "StudentName": "Nguyễn Thị Vân  Anh",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0908003012",
+  "BirthDay": "09/08/1987",
+  "BirthPlace": "TP.HCM ",
+  "Gender": false,
+  "ClassStudentName": "TCDN ĐÊM 3",
+  "OlogyName": "Tài chính",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_TCDN"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7fb"
+  },
+  "StudentId": "7701210018",
+  "StudentName": "Võ Nhật  Anh",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0947733445",
+  "BirthDay": "15/04/1987",
+  "BirthPlace": "Thừa Thiên - Huế ",
+  "Gender": true,
+  "ClassStudentName": "KTKT NGÀY 2",
+  "OlogyName": "Kế toán",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_KT"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7fc"
+  },
+  "StudentId": "7701210019",
+  "StudentName": "Nguyễn Đức Tú  Anh",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0975687766",
+  "BirthDay": "10/08/1987",
+  "BirthPlace": "Nghệ An  ",
+  "Gender": true,
+  "ClassStudentName": "TCNN ĐÊM",
+  "OlogyName": "Tài chính công",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_TCNN"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7fd"
+  },
+  "StudentId": "7701210020",
+  "StudentName": "Vũ Thị Vân Anh",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0906310093",
+  "BirthDay": "21/06/1988",
+  "BirthPlace": "TP.HCM",
+  "Gender": false,
+  "ClassStudentName": "TCDN ĐÊM 3",
+  "OlogyName": "Tài chính",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_TCDN"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7fe"
+  },
+  "StudentId": "7701210021",
+  "StudentName": "Bùi Nữ Phương Anh",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "",
+  "BirthDay": "19/01/1975",
+  "BirthPlace": "Thừa Thiên - Huế",
+  "Gender": false,
+  "ClassStudentName": "TCDN ĐÊM 3",
+  "OlogyName": "Tài chính",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_TCDN"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed7ff"
+  },
+  "StudentId": "7701210022",
+  "StudentName": "Phan Nam Anh",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0937339065",
+  "BirthDay": "02/01/1988",
+  "BirthPlace": "Nghệ An  ",
+  "Gender": true,
+  "ClassStudentName": "KTKT ĐÊM",
+  "OlogyName": "Kế toán",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_KT"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed800"
+  },
+  "StudentId": "7701210023",
+  "StudentName": "Phạm Thị Phương Anh",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "01666422423",
+  "BirthDay": "17/01/1987",
+  "BirthPlace": "Phú Yên",
+  "Gender": false,
+  "ClassStudentName": "KTKT ĐÊM",
+  "OlogyName": "Kế toán",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_KT"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed801"
+  },
+  "StudentId": "7701210024",
+  "StudentName": "Nguyễn Hồng Anh",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0938237575",
+  "BirthDay": "14/08/1988",
+  "BirthPlace": "Quảng Ngãi",
+  "Gender": true,
+  "ClassStudentName": "NGÂN HÀNG NGÀY 1",
+  "OlogyName": "Ngân hàng",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_NH"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed802"
+  },
+  "StudentId": "7701210025",
+  "StudentName": "Bùi Thị Thùy Anh",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0909099061",
+  "BirthDay": "05/04/1989",
+  "BirthPlace": "TP.HCM",
+  "Gender": false,
+  "ClassStudentName": "NGÂN HÀNG NGÀY 2",
+  "OlogyName": "Ngân hàng",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_NH"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed803"
+  },
+  "StudentId": "7701210026",
+  "StudentName": "Diệp Hoàng Anh",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0909369188",
+  "BirthDay": "16/04/1986",
+  "BirthPlace": "TP.HCM",
+  "Gender": false,
+  "ClassStudentName": "TCDN ĐÊM 3",
+  "OlogyName": "Tài chính",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_TCDN"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed804"
+  },
+  "StudentId": "7701210027",
+  "StudentName": "Phan Thị Hoàng Anh",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0988993987",
+  "BirthDay": "30/10/1987",
+  "BirthPlace": "Kiên Giang",
+  "Gender": false,
+  "ClassStudentName": "NGÂN HÀNG NGÀY 2",
+  "OlogyName": "Ngân hàng",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_NH"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed805"
+  },
+  "StudentId": "7701210028",
+  "StudentName": "Đinh Thị Anh",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "",
+  "BirthDay": "04/10/1988",
+  "BirthPlace": "Đắk Lắk",
+  "Gender": false,
+  "ClassStudentName": "TCDN ĐÊM 3",
+  "OlogyName": "Tài chính",
+  "CourseID": "CHK21"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed806"
+  },
+  "StudentId": "7701210029",
+  "StudentName": "Phan Thị Lan  Anh",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0979555070",
+  "BirthDay": "23/08/1989",
+  "BirthPlace": "Long An   ",
+  "Gender": false,
+  "ClassStudentName": "NGÂN HÀNG NGÀY 2",
+  "OlogyName": "Ngân hàng",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_NH"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed807"
+  },
+  "StudentId": "7701210030",
+  "StudentName": "Bùi Ngọc Lan Anh",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0937987575",
+  "BirthDay": "19/01/1985",
+  "BirthPlace": "Tiền Giang",
+  "Gender": false,
+  "ClassStudentName": "QTKD NGÀY 1",
+  "OlogyName": "Quản trị kinh doanh",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_QT"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed808"
+  },
+  "StudentId": "7701210031",
+  "StudentName": "Nguyễn Kim Anh",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0903658256",
+  "BirthDay": "02/10/1979",
+  "BirthPlace": "Hà Nội",
+  "Gender": false,
+  "ClassStudentName": "TCDN ĐÊM 3",
+  "OlogyName": "Tài chính",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_TCDN"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed809"
+  },
+  "StudentId": "7701210032",
+  "StudentName": "Trần Nguyễn Trâm Anh",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0987082047",
+  "BirthDay": "27/11/1988",
+  "BirthPlace": "Bình Định",
+  "Gender": false,
+  "ClassStudentName": "NGÂN HÀNG ĐÊM 1",
+  "OlogyName": "Ngân hàng",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_NH"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed80a"
+  },
+  "StudentId": "7701210033",
+  "StudentName": "Lê Hoàng  Anh",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0973624322",
+  "BirthDay": "03/02/1989",
+  "BirthPlace": "Cần Thơ  ",
+  "Gender": true,
+  "ClassStudentName": "NGÂN HÀNG NGÀY 2",
+  "OlogyName": "Ngân hàng",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_NH"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed80b"
+  },
+  "StudentId": "7701210034",
+  "StudentName": "Trần Thị Hoàng  Anh",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0919906481",
+  "BirthDay": "29/10/1987",
+  "BirthPlace": "Đà Nẵng  ",
+  "Gender": false,
+  "ClassStudentName": "TCDN ĐÊM 3",
+  "OlogyName": "Tài chính",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_TCDN"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed80c"
+  },
+  "StudentId": "7701210035",
+  "StudentName": "Nguyễn Thế  Anh",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0907480747",
+  "BirthDay": "28/02/1988",
+  "BirthPlace": "TP.HCM ",
+  "Gender": true,
+  "ClassStudentName": "QTKD ĐÊM 2",
+  "OlogyName": "Quản trị kinh doanh",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_QT"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed80d"
+  },
+  "StudentId": "7701210036",
+  "StudentName": "Huỳnh Thị Kim  Anh",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0907328947",
+  "BirthDay": "23/06/1989",
+  "BirthPlace": "Long An   ",
+  "Gender": false,
+  "ClassStudentName": "TCDN ĐÊM 3",
+  "OlogyName": "Tài chính",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_TCDN"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed80e"
+  },
+  "StudentId": "7701210037",
+  "StudentName": "Nguyễn Thị Ngọc  Ánh",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0983152728",
+  "BirthDay": "10/12/1986",
+  "BirthPlace": "Lâm Đồng   ",
+  "Gender": false,
+  "ClassStudentName": "NGÂN HÀNG ĐÊM 1",
+  "OlogyName": "Ngân hàng",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_NH"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed80f"
+  },
+  "StudentId": "7701210038",
+  "StudentName": "Nguyễn Hoàng  Ánh",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "BirthDay": "13/01/1987",
+  "BirthPlace": "Lâm Đồng  ",
+  "Gender": true,
+  "ClassStudentName": "QTKD ĐÊM 6",
+  "OlogyName": "Quản trị kinh doanh",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_QT"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed810"
+  },
+  "StudentId": "7701210039",
+  "StudentName": "Võ Duy Bách",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0909267123",
+  "BirthDay": "20/08/1987",
+  "BirthPlace": "Đắk Lắk",
+  "Gender": true,
+  "ClassStudentName": "NGÂN HÀNG ĐÊM 1",
+  "OlogyName": "Ngân hàng",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_NH"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed811"
+  },
+  "StudentId": "7701210040",
+  "StudentName": "Lâm Phi  Bằng",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "BirthDay": "11/06/1985",
+  "BirthPlace": "TP.HCM ",
+  "Gender": true,
+  "ClassStudentName": "TCDN ĐÊM 3",
+  "OlogyName": "Tài chính",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_TCDN"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed812"
+  },
+  "StudentId": "7701210041",
+  "StudentName": "Châu Hoài  Bão",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0947010307",
+  "BirthDay": "12/01/1989",
+  "BirthPlace": "Long An   ",
+  "Gender": true,
+  "ClassStudentName": "QTKD NGÀY 2",
+  "OlogyName": "Quản trị kinh doanh",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_QT"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed813"
+  },
+  "StudentId": "7701210042",
+  "StudentName": "Nguyễn Đức  Bảo",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0918622365",
+  "BirthDay": "21/01/1978",
+  "BirthPlace": "Quảng Ngãi   ",
+  "Gender": true,
+  "ClassStudentName": "KTKT NGÀY 1",
+  "OlogyName": "Kế toán",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_KT"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed814"
+  },
+  "StudentId": "7701210043",
+  "StudentName": "Nguyễn Trương Thanh  Bảo",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0903929210",
+  "BirthDay": "19/04/1986",
+  "BirthPlace": "TP.HCM ",
+  "Gender": true,
+  "ClassStudentName": "TCDN NGÀY 1",
+  "OlogyName": "Tài chính",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_TCDN"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed815"
+  },
+  "StudentId": "7701210044",
+  "StudentName": "Trần Duy  Bảo",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0935590554",
+  "BirthDay": "07/09/1985",
+  "BirthPlace": "Đà Nẵng  ",
+  "Gender": true,
+  "ClassStudentName": "QTKD ĐÊM 1",
+  "OlogyName": "Quản trị kinh doanh",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_QT"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed816"
+  },
+  "StudentId": "7701210045",
+  "StudentName": "Phan Ngọc Thanh  Bảo",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0909963440",
+  "BirthDay": "28/12/1987",
+  "BirthPlace": "Bình Thuận  ",
+  "Gender": true,
+  "ClassStudentName": "TCDN ĐÊM 4",
+  "OlogyName": "Tài chính",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_TCDN"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed817"
+  },
+  "StudentId": "7701210046",
+  "StudentName": "Trần Khánh Bảo",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "01265018927",
+  "BirthDay": "18/09/1989",
+  "BirthPlace": "TP.HCM  ",
+  "Gender": true,
+  "ClassStudentName": "NGÂN HÀNG ĐÊM 1",
+  "OlogyName": "Ngân hàng",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_NH"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed818"
+  },
+  "StudentId": "7701210047",
+  "StudentName": "Nguyễn Huy  Bảo",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0933442370",
+  "BirthDay": "26/10/1989",
+  "BirthPlace": "Bình Thuận  ",
+  "Gender": true,
+  "ClassStudentName": "TCDN ĐÊM 3",
+  "OlogyName": "Tài chính",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_TCDN"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed819"
+  },
+  "StudentId": "7701210048",
+  "StudentName": "Đỗ Thị  Bảy",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0945337377",
+  "BirthDay": "04/03/1989",
+  "BirthPlace": "Thanh Hóa    ",
+  "Gender": false,
+  "ClassStudentName": "TCDN ĐÊM 3",
+  "OlogyName": "Tài chính",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_TCDN"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed81a"
+  },
+  "StudentId": "7701210049",
+  "StudentName": "Đỗ Thị  Bích",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0935175724",
+  "BirthDay": "20/06/1988",
+  "BirthPlace": "Thanh Hóa   ",
+  "Gender": false,
+  "ClassStudentName": "TCDN ĐÊM 3",
+  "OlogyName": "Tài chính",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_TCDN"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed81b"
+  },
+  "StudentId": "7701210050",
+  "StudentName": "Ngô Thị Ngọc  Bích",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0907581088",
+  "BirthDay": "15/10/1988",
+  "BirthPlace": "Bình Định  ",
+  "Gender": false,
+  "ClassStudentName": "NGÂN HÀNG ĐÊM 1",
+  "OlogyName": "Ngân hàng",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_NH"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed81c"
+  },
+  "StudentId": "7701210051",
+  "StudentName": "Trần Thị Ngọc  Bích",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0976877226",
+  "BirthDay": "17/05/1988",
+  "BirthPlace": "TP.HCM ",
+  "Gender": false,
+  "ClassStudentName": "THƯƠNG MẠI ĐÊM",
+  "OlogyName": "Kinh doanh thương mại",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_TM"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed81d"
+  },
+  "StudentId": "7701210052",
+  "StudentName": "Viên Ngọc Bích",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0916295433",
+  "BirthDay": "22/01/1985",
+  "BirthPlace": "TP.HCM",
+  "Gender": false,
+  "ClassStudentName": "TCDN ĐÊM 3",
+  "OlogyName": "Tài chính",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_TCDN"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed81e"
+  },
+  "StudentId": "7701210053",
+  "StudentName": "Lê Thị Hải  Bình",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0906463587",
+  "BirthDay": "06/07/1987",
+  "BirthPlace": "Khánh Hòa  ",
+  "Gender": false,
+  "ClassStudentName": "KTKT ĐÊM",
+  "OlogyName": "Kế toán",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_KT"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed81f"
+  },
+  "StudentId": "7701210054",
+  "StudentName": "Võ Thanh  Bình",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0903335232",
+  "BirthDay": "15/03/1975",
+  "BirthPlace": "Phú Yên   ",
+  "Gender": true,
+  "ClassStudentName": "QTKD ĐÊM 6",
+  "OlogyName": "Quản trị kinh doanh",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_QT"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed820"
+  },
+  "StudentId": "7701210055",
+  "StudentName": "Trà Hậu Quốc  Bình",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0937979002",
+  "BirthDay": "11/09/1988",
+  "BirthPlace": "TP.HCM  ",
+  "Gender": true,
+  "ClassStudentName": "NGÂN HÀNG ĐÊM 1",
+  "OlogyName": "Ngân hàng",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_NH"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed821"
+  },
+  "StudentId": "7701210056",
+  "StudentName": "Nguyễn Thanh  Bình",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0934324652",
+  "BirthDay": "04/06/1961",
+  "BirthPlace": "Yên Bái  ",
+  "Gender": true,
+  "ClassStudentName": "QTKD NGÀY 2",
+  "OlogyName": "Quản trị kinh doanh",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_QT"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed822"
+  },
+  "StudentId": "7701210057",
+  "StudentName": "Đoàn Thị Hòa  Bình",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0982464689",
+  "BirthDay": "14/06/1972",
+  "BirthPlace": "Quảng Ninh   ",
+  "Gender": false,
+  "ClassStudentName": "NGÂN HÀNG NGÀY 2",
+  "OlogyName": "Ngân hàng",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_NH"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed823"
+  },
+  "StudentId": "7701210058",
+  "StudentName": "Phan Quốc  Bình",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0906439073",
+  "BirthDay": "20/06/1988",
+  "BirthPlace": "Khánh Hòa  ",
+  "Gender": true,
+  "ClassStudentName": "TCDN ĐÊM 3",
+  "OlogyName": "Tài chính",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_TCDN"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed824"
+  },
+  "StudentId": "7701210059",
+  "StudentName": "Nguyễn Thị Thanh Bình",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0933845484",
+  "BirthDay": "03/06/1987",
+  "BirthPlace": "TP.HCM",
+  "Gender": false,
+  "ClassStudentName": "TCDN NGÀY 2",
+  "OlogyName": "Tài chính",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_TCDN"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed825"
+  },
+  "StudentId": "7701210060",
+  "StudentName": "Nguyễn Đức  Bình",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0985889903",
+  "BirthDay": "25/01/1988",
+  "BirthPlace": "Lai Châu  ",
+  "Gender": true,
+  "ClassStudentName": "QTKD ĐÊM 1",
+  "OlogyName": "Quản trị kinh doanh",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_QT"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed826"
+  },
+  "StudentId": "7701210061",
+  "StudentName": "Nguyễn Hữu Thái  Bình",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0903145655",
+  "BirthDay": "28/12/1982",
+  "BirthPlace": "Long An    ",
+  "Gender": true,
+  "ClassStudentName": "QTKD NGÀY 2",
+  "OlogyName": "Quản trị kinh doanh",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_QT"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed827"
+  },
+  "StudentId": "7701210062",
+  "StudentName": "Huỳnh Thị Thanh Bình",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0909900998",
+  "BirthDay": "12/05/1976",
+  "BirthPlace": "TP.HCM  ",
+  "Gender": false,
+  "ClassStudentName": "KINH TẾ CHÍNH TRỊ",
+  "OlogyName": "Kinh tế chính trị",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_KTCT2"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed828"
+  },
+  "StudentId": "7701210063",
+  "StudentName": "La Thị Thanh Bình",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0979644655",
+  "BirthDay": "16/05/1989",
+  "BirthPlace": "Đắk Lắk ",
+  "Gender": false,
+  "ClassStudentName": "NGÂN HÀNG ĐÊM 1",
+  "OlogyName": "Ngân hàng",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_NH"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed829"
+  },
+  "StudentId": "7701210064",
+  "StudentName": "Ngô Công  Bình",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0918072486",
+  "BirthDay": "17/03/1966",
+  "BirthPlace": "TP.HCM ",
+  "Gender": true,
+  "ClassStudentName": "KINH TẾ CHÍNH TRỊ",
+  "OlogyName": "Kinh tế chính trị",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_KTCT2"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed82a"
+  },
+  "StudentId": "7701210065",
+  "StudentName": "Luyện Vũ Đức  Bình",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0936111936",
+  "BirthDay": "17/05/1986",
+  "BirthPlace": "TP.HCM ",
+  "Gender": true,
+  "ClassStudentName": "KTKT ĐÊM",
+  "OlogyName": "Kế toán",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_KT"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed82b"
+  },
+  "StudentId": "7701210066",
+  "StudentName": "Nguyễn Văn Bổn",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0972056093",
+  "BirthDay": "02/07/1976",
+  "BirthPlace": "TP.HCM",
+  "Gender": true,
+  "ClassStudentName": "TCNN NGÀY",
+  "OlogyName": "Tài chính công",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_TCNN"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed82c"
+  },
+  "StudentId": "7701210067",
+  "StudentName": "Đào Đức  Cẩm",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0909202382",
+  "BirthDay": "13/08/1982",
+  "BirthPlace": "Gia Lai        ",
+  "Gender": true,
+  "ClassStudentName": "QTKD ĐÊM 1",
+  "OlogyName": "Quản trị kinh doanh",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_QT"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed82d"
+  },
+  "StudentId": "7701210068",
+  "StudentName": "Đường Thị Minh  Cận",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0904175009",
+  "BirthDay": "01/12/1987",
+  "BirthPlace": "Hà Tĩnh  ",
+  "Gender": false,
+  "ClassStudentName": "NGÂN HÀNG ĐÊM 1",
+  "OlogyName": "Ngân hàng",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_NH"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed82e"
+  },
+  "StudentId": "7701210069",
+  "StudentName": "Vũ Văn  Cảnh",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0909635365",
+  "BirthDay": "11/02/1981",
+  "BirthPlace": "Đồng Nai   ",
+  "Gender": true,
+  "ClassStudentName": "QTKD NGÀY 1",
+  "OlogyName": "Quản trị kinh doanh",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_QT"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed82f"
+  },
+  "StudentId": "7701210070",
+  "StudentName": "Bùi Thị Thanh  Châm",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0976861968",
+  "BirthDay": "16/04/1987",
+  "BirthPlace": "Lâm Đồng  ",
+  "Gender": false,
+  "ClassStudentName": "QTKD ĐÊM 1",
+  "OlogyName": "Quản trị kinh doanh",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_QT"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed830"
+  },
+  "StudentId": "7701210071",
+  "StudentName": "Phan Mai Khánh Chân",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0977599020",
+  "BirthDay": "07/07/1989",
+  "BirthPlace": "Ninh Thuận",
+  "Gender": false,
+  "ClassStudentName": "NGÂN HÀNG ĐÊM 1",
+  "OlogyName": "Ngân hàng",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_NH"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed831"
+  },
+  "StudentId": "7701210072",
+  "StudentName": "Phạm Thị  Chang",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0938982510",
+  "BirthDay": "25/10/1987",
+  "BirthPlace": "Hải Dương   ",
+  "Gender": false,
+  "ClassStudentName": "TCDN ĐÊM 3",
+  "OlogyName": "Tài chính",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_TCDN"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed832"
+  },
+  "StudentId": "7701210073",
+  "StudentName": "Nguyễn Thị Hồng  Chánh",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0938643480",
+  "BirthDay": "19/07/1988",
+  "BirthPlace": "Khánh Hòa  ",
+  "Gender": false,
+  "ClassStudentName": "NGÂN HÀNG NGÀY 2",
+  "OlogyName": "Ngân hàng",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_NH"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed833"
+  },
+  "StudentId": "7701210074",
+  "StudentName": "Lộc Hồng Chánh",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0937963690",
+  "BirthDay": "08/01/1987",
+  "BirthPlace": "TP.HCM",
+  "Gender": false,
+  "ClassStudentName": "QTKD ĐÊM 1",
+  "OlogyName": "Quản trị kinh doanh",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_QT"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed834"
+  },
+  "StudentId": "7701210075",
+  "StudentName": "Huỳnh Bảo  Châu",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0919864761",
+  "BirthDay": "27/11/1988",
+  "BirthPlace": "Sóc Trăng  ",
+  "Gender": true,
+  "ClassStudentName": "NGÂN HÀNG ĐÊM 1",
+  "OlogyName": "Ngân hàng",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_NH"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed835"
+  },
+  "StudentId": "7701210076",
+  "StudentName": "Lê Thị Quỳnh  Châu",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0903545898",
+  "BirthDay": "10/05/1988",
+  "BirthPlace": "Đà Nẵng  ",
+  "Gender": false,
+  "ClassStudentName": "NGÂN HÀNG ĐÊM 1",
+  "OlogyName": "Ngân hàng",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_NH"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed836"
+  },
+  "StudentId": "7701210077",
+  "StudentName": "Nguyễn Huỳnh Thanh  Châu",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0937466325",
+  "BirthDay": "21/11/1988",
+  "BirthPlace": "Long An   ",
+  "Gender": true,
+  "ClassStudentName": "NGÂN HÀNG ĐÊM 1",
+  "OlogyName": "Ngân hàng",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_NH"
+},{
+  "_id": {
+    "$oid": "60fc472450d8ef12a9aed837"
+  },
+  "StudentId": "7701210078",
+  "StudentName": "Phù Tường Bội  Châu",
+  "DepartmentName": "Viện Đào tạo Sau đại học",
+  "HomePhone": "0907030961",
+  "BirthDay": "02/02/1986",
+  "BirthPlace": "Bà Rịa - Vũng Tàu ",
+  "Gender": true,
+  "ClassStudentName": "QTKD NGÀY 1",
+  "OlogyName": "Quản trị kinh doanh",
+  "CourseID": "CHK21",
+  "StudyProgramID": "CHK21CH_QT"
+}]

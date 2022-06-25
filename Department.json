@@ -1,0 +1,193 @@
+[{
+  "_id": {
+    "$oid": "6292f559b4d5e9625c651210"
+  },
+  "dept_id": 10,
+  "date_created": "8/6/2010",
+  "dept_name": "ACCOUNTING",
+  "dept_no": "D10",
+  "location": "NEW YORK",
+  "leader": {
+    "name": "John",
+    "phone": "1221315456"
+  },
+  "projects": [
+    {
+      "name": "ERP",
+      "language": "English"
+    },
+    {
+      "name": "ERP2",
+      "language": "Spanish"
+    }
+  ],
+  "address": "958, Corscot, Lane"
+},{
+  "_id": {
+    "$oid": "6292f559b4d5e9625c651211"
+  },
+  "dept_id": 15,
+  "date_created": "4/4/2002",
+  "dept_name": "ACCOUNTING",
+  "dept_no": "D15",
+  "location": "Viet Nam",
+  "leader": {
+    "name": "Nguyen",
+    "phone": "097826564985"
+  },
+  "projects": [
+    {
+      "name": "MyCity",
+      "language": "English"
+    },
+    {
+      "name": "SAP",
+      "language": "Spanish"
+    }
+  ],
+  "address": "9, Springview, Center"
+},{
+  "_id": {
+    "$oid": "6292f559b4d5e9625c651212"
+  },
+  "dept_id": 40,
+  "date_created": "2/7/2010",
+  "dept_name": "OPERATIONS",
+  "dept_no": "D40",
+  "location": "BOSTON",
+  "leader": {
+    "name": "Alice",
+    "phone": "44441315456"
+  },
+  "projects": [
+    {
+      "name": "CRM",
+      "language": "English"
+    },
+    {
+      "name": "CRM2",
+      "language": "Spanish"
+    }
+  ],
+  "address": "9, Springview, Center"
+},{
+  "_id": {
+    "$oid": "6292f559b4d5e9625c651213"
+  },
+  "dept_id": 20,
+  "date_created": "1/1/2000",
+  "dept_name": "OPERATIONS",
+  "dept_no": "D20",
+  "location": "NEW YORK",
+  "leader": {
+    "name": "John",
+    "phone": "1221315456"
+  },
+  "projects": [
+    {
+      "name": "Banking",
+      "language": "English"
+    },
+    {
+      "name": "Banking2",
+      "language": "Spanish"
+    }
+  ],
+  "address": "958, Corscot, Lane"
+},{
+  "_id": {
+    "$oid": "6292f56fb4d5e9625c651245"
+  },
+  "dept_id": 10,
+  "date_created": "8/6/2010",
+  "dept_name": "ACCOUNTING",
+  "dept_no": "D10",
+  "location": "NEW YORK",
+  "leader": {
+    "name": "John",
+    "phone": "1221315456"
+  },
+  "projects": [
+    {
+      "name": "ERP",
+      "language": "English"
+    },
+    {
+      "name": "ERP2",
+      "language": "Spanish"
+    }
+  ],
+  "address": "958, Corscot, Lane"
+},{
+  "_id": {
+    "$oid": "6292f56fb4d5e9625c651246"
+  },
+  "dept_id": 15,
+  "date_created": "4/4/2002",
+  "dept_name": "ACCOUNTING",
+  "dept_no": "D15",
+  "location": "Viet Nam",
+  "leader": {
+    "name": "Nguyen",
+    "phone": "097826564985"
+  },
+  "projects": [
+    {
+      "name": "MyCity",
+      "language": "English"
+    },
+    {
+      "name": "SAP",
+      "language": "Spanish"
+    }
+  ],
+  "address": "9, Springview, Center"
+},{
+  "_id": {
+    "$oid": "6292f56fb4d5e9625c651247"
+  },
+  "dept_id": 40,
+  "date_created": "2/7/2010",
+  "dept_name": "OPERATIONS",
+  "dept_no": "D40",
+  "location": "BOSTON",
+  "leader": {
+    "name": "Alice",
+    "phone": "44441315456"
+  },
+  "projects": [
+    {
+      "name": "CRM",
+      "language": "English"
+    },
+    {
+      "name": "CRM2",
+      "language": "Spanish"
+    }
+  ],
+  "address": "9, Springview, Center"
+},{
+  "_id": {
+    "$oid": "6292f56fb4d5e9625c651248"
+  },
+  "dept_id": 20,
+  "date_created": "1/1/2000",
+  "dept_name": "OPERATIONS",
+  "dept_no": "D20",
+  "location": "NEW YORK",
+  "leader": {
+    "name": "John",
+    "phone": "1221315456"
+  },
+  "projects": [
+    {
+      "name": "Banking",
+      "language": "English"
+    },
+    {
+      "name": "Banking2",
+      "language": "Spanish"
+    }
+  ],
+  "address": "958, Corscot, Lane"
+}]
